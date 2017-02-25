@@ -1,7 +1,5 @@
 from sense_hat import SenseHat
 import time
-import smtplib
-import email
 import http.client, urllib
 import os
 
